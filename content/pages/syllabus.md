@@ -35,29 +35,237 @@ Recommended Book
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 20 |
-| 3 response papers | 30 (10 each) |
-| Final project (includes preliminary proposal and short presentation) | 50 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 response papers
+{{< tdclose >}}
+{{< tdopen >}}
+30 (10 each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project (includes preliminary proposal and short presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This class is a discussion based seminar. Your participation (in class conversation and during our offsite visits) is crucial and is weighted accordingly. Please come to each class meeting prepared to discuss all assigned readings for that week. Fieldtrips are not optional; they are an essential component of the course.
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Museum, Nation, Citizen | &nbsp; |
-| 3 | Guest Lecture: Sam Bardaouil and Till Fellrath. _Tea with Nefertiti, or How the Arts Shape Culture_ | Lecture of interest: [Matthew Rampley](http://www.birmingham.ac.uk/staff/profiles/historyofart/rampley-matthew.aspx), "[Museums and the Construction of Identities](https://www.birmingham.ac.uk/schools/lcahm/departments/historyofart/news/2014/rampley-harvard-lecture.aspx)" |
-| 4 | The Museum as Arbiter: Episodes in Exhibition History | &nbsp; |
-| 5 | Destination Museum: The Bilbao Effect | &nbsp; |
-| 6 | Western Museums and the Rest of the World: The "Primitive" and the Global International | Project proposals and preliminary bibliographies due |
-| 7 | The Artist as Curator: A Discussion with Arlene Shechet on _Meissen Recast_ | Visit to [Rhode Island School of Design (RISD)](http://www.risd.edu/) |
-| 8 | Looting and Restitution, or, the Universal Museum Reconsidered | Due: Response paper on repatriation |
-| 9 | The Private Museum |  {{< br >}}{{< br >}} Visit to the [Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/home). {{< br >}}{{< br >}} Tour and discussion with [Anne-Marie Eze](http://courtauld.academia.edu/AnneMarieEze), Associate Curator of Collections {{< br >}}{{< br >}}  |
-| 10 | Beyond the Nation: The Americas Galleries at the MFA |  {{< br >}}{{< br >}} Visit to the [Museum of Fine Arts](http://www.mfa.org/). {{< br >}}{{< br >}} Due: Response paper to the Gardner Museum {{< br >}}{{< br >}}  |
-| 11 | Lightning Talks | In-class: [Lightning talks](http://en.wikipedia.org/wiki/Lightning_talk) of ongoing research projects |
-| 12 | Museums and Money | In-class: Additional lightning talks if necessary |
-| 13 | Sneak Preview of new [Harvard University Art Museums](http://www.harvardartmuseums.org/) with Elizabeth Rudy, Theodore Rousseau Assistant Curator of European Paintings | Final projects due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Museum, Nation, Citizen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Sam Bardaouil and Till Fellrath. _Tea with Nefertiti, or How the Arts Shape Culture_
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture of interest: [Matthew Rampley](http://www.birmingham.ac.uk/staff/profiles/historyofart/rampley-matthew.aspx), "[Museums and the Construction of Identities](https://www.birmingham.ac.uk/schools/lcahm/departments/historyofart/news/2014/rampley-harvard-lecture.aspx)"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Museum as Arbiter: Episodes in Exhibition History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Destination Museum: The Bilbao Effect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Western Museums and the Rest of the World: The "Primitive" and the Global International
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposals and preliminary bibliographies due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Artist as Curator: A Discussion with Arlene Shechet on _Meissen Recast_
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to [Rhode Island School of Design (RISD)](http://www.risd.edu/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Looting and Restitution, or, the Universal Museum Reconsidered
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Response paper on repatriation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Private Museum
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visit to the [Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/home).
+
+Tour and discussion with [Anne-Marie Eze](http://courtauld.academia.edu/AnneMarieEze), Associate Curator of Collections
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Beyond the Nation: The Americas Galleries at the MFA
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visit to the [Museum of Fine Arts](http://www.mfa.org/).
+
+Due: Response paper to the Gardner Museum
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lightning Talks
+{{< tdclose >}}
+{{< tdopen >}}
+In-class: [Lightning talks](http://en.wikipedia.org/wiki/Lightning_talk) of ongoing research projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Museums and Money
+{{< tdclose >}}
+{{< tdopen >}}
+In-class: Additional lightning talks if necessary
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Sneak Preview of new [Harvard University Art Museums](http://www.harvardartmuseums.org/) with Elizabeth Rudy, Theodore Rousseau Assistant Curator of European Paintings
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
