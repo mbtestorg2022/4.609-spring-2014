@@ -72,11 +72,11 @@ Guest Lecture: Sam Bardaouil and Till Fellrath. _Tea with Nefertiti, or How the 
 {{< tdopen >}}
 
 
-Bardaouil, Sam, and Till Fellrath. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Tea with Nefertiti: The Making of the Artwork by the Artist, the Museum and the Public_ _(PDF)._](http://www.artreoriented.com/exhibitions/tea-with-nefertiti/) Exhibition catalogue, Doha, 2012.
+Bardaouil, Sam, and Till Fellrath. [_Tea with Nefertiti: The Making of the Artwork by the Artist, the Museum and the Public_ _(PDF)._](http://www.artreoriented.com/exhibitions/tea-with-nefertiti/) Exhibition catalogue, Doha, 2012.
 
 Esposito, Alana. "[A Cultural Icon Tells Her Own Story](http://www.nytimes.com/2012/12/06/world/middleeast/a-cultural-icon-tells-her-own-story.html?_r=0)," _New York Times_, 5 December, 2012.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ArtAsiaPacific: Interview With Sam Bardaouil and Till Fellrath (PDF)](http://www.artreoriented.com/content/5-press/art-asia-pacific-interview-with-sam-bardaouil-and-till-fellrath.pdf), 4 December, 2012.
+[ArtAsiaPacific: Interview With Sam Bardaouil and Till Fellrath (PDF)](http://www.artreoriented.com/content/5-press/art-asia-pacific-interview-with-sam-bardaouil-and-till-fellrath.pdf), 4 December, 2012.
 
 
 {{< tdclose >}}
@@ -201,7 +201,7 @@ Singh, Kavita. "The Universal Museum: View from Below." In _Witnesses to History
 Wood, Paul. "[Display, Restitution and World Art History: The Case of the 'Benin Bronzes](http://dx.doi.org/10.1080/14714787.2012.641854).'" _Visual Culture in Britain_ 13, no. 1 (2012): 115–37.
 
 \[McClellan\] "Restitution and Repatriation." pp. 233–68.  
-Appendix: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Declaration on the Importance and Value of Universal Museums" (PDF)](https://www.hermitagemuseum.org/wps/portal/hermitage/news/news-item/news/1999_2013/hm11_1_93/?lng=#:~:text=Today%20we%20are%20especially%20sensitive,displaced%20from%20their%20original%20source.) pp. 275–6, 2002.
+Appendix: "[Declaration on the Importance and Value of Universal Museums" (PDF)](https://www.hermitagemuseum.org/wps/portal/hermitage/news/news-item/news/1999_2013/hm11_1_93/?lng=#:~:text=Today%20we%20are%20especially%20sensitive,displaced%20from%20their%20original%20source.) pp. 275–6, 2002.
 
 
 {{< tdclose >}}

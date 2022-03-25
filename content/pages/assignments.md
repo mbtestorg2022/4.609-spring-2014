@@ -16,7 +16,7 @@ You are also expected to pursue a research project related to the course themes.
 
 ### Example Research Projects
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Modern Authentication: An Exhibition" (PDF - 2.0MB)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work1) by an MIT Student
+["Modern Authentication: An Exhibition" (PDF - 2.0MB)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work1) by an MIT Student
 
 ["The Founding of the MFA: Myths and Realities" (PDF)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work2) by an MIT Student
 
